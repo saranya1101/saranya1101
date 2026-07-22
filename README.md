@@ -21,6 +21,7 @@
 ### 🚀 About Me
 
 - 🎓 B.E. Computer Science & Design, Karpagam Academy of Higher Education (2022 – 2026)
+- 🎨 Blend of design thinking (UI/UX) with full-stack engineering
 - 💼 Trainee Developer, currently building full-stack, cloud, and DevOps skills
 - ☁️ AWS Certified Cloud Practitioner
 - 🧠 Exploring Generative AI — RAG, AI Agents, LLMs
@@ -45,6 +46,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**UI/UX Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
