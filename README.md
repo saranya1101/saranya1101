@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saranya M</h1>
-<h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | AI Explorer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AWS+Certified+Cloud+Practitioner;AI+%2F+GenAI+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saranya1101&label=Profile%20Views&color=00C8FF&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/saranya1101?label=Followers&style=flat-square&color=00C8FF" alt="Followers"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/saranya1101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -84,6 +94,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranya1101&theme=radical" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saranya1101&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<!--
+  🐍 Contribution Snake — shows a snake "eating" your contribution graph.
+  One-time setup (takes 2 minutes):
+  1. In this profile repo, go to Settings → Secrets and variables → Actions → nothing needed, it uses GITHUB_TOKEN automatically
+  2. Add a workflow file at .github/workflows/snake.yml (ask me and I'll generate it for you)
+  3. Once the workflow runs once, uncomment the line below
+  <img src="https://raw.githubusercontent.com/saranya1101/saranya1101/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+-->
+
 ---
 
 ### 🏆 Achievements
@@ -94,6 +117,14 @@
 - ☁️ **AWS Cloud Practitioner** Certified (2026)
 - 🌐 **Responsive Web Design** – freeCodeCamp (2025)
 - ☕ **Java Developer Certification** – Byts (2024)
+
+---
+
+### 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 ---
 
