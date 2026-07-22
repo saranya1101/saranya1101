@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saranya M</h1>
+<h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | AI Explorer</h3>
 
-<!--
-**saranya1101/saranya1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/saranya1101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:saranyasara1101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.E. Computer Science & Design, Karpagam Academy of Higher Education (2022 – 2026)
+- 💼 Trainee Developer, currently building full-stack, cloud, and DevOps skills
+- ☁️ AWS Certified Cloud Practitioner
+- 🧠 Exploring Generative AI — RAG, AI Agents, LLMs
+- 📄 Presented a research paper at **IEEE ICCMC 2026**: *"Adaptive Real-Time Driver Vigilance Assessment Using Eye and Facial Motion Dynamics"*
+- 🏆 300+ problems on LeetCode | 950+ problems on CodeChef
+- 🌱 Currently deepening my skills in Cloud/DevOps and System Design
+- 📫 Reach me at: **saranyasara1101@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI / GenAI**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🖐️ Virtual Mouse using Hand Gesture *(add repo link)* | Real-time cursor control via webcam hand-gesture detection, with click detection based on finger landmark distance | Python, OpenCV, MediaPipe, PyAutoGUI |
+| ☁️ Cloud-Based Student Management System *(add repo link)* | RESTful APIs with role-based access control, containerized and deployed on AWS EC2 via Docker/Kubernetes, provisioned with Terraform, CI/CD via GitHub Actions | Spring Boot, MySQL, AWS, Docker, Kubernetes, Terraform |
+| 🎫 [Event Management Platform](https://github.com/saranya1101/event-management-) | Full-stack platform supporting 50+ events with complete CRUD functionality and a responsive UI | React, Tailwind CSS, REST API |
+| 🔎 [Lost & Found Portal](https://github.com/saranya1101/lost-found-portal) | Portal for reporting and tracking lost and found items | JavaScript |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saranya1101&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranya1101&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranya1101&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 💡 300+ problems solved on **LeetCode**
+- 💡 950+ problems solved on **CodeChef**
+- 📄 Paper presented at **IEEE ICCMC 2026**
+- ☁️ **AWS Cloud Practitioner** Certified (2026)
+- 🌐 **Responsive Web Design** – freeCodeCamp (2025)
+- ☕ **Java Developer Certification** – Byts (2024)
+
+---
+
+<p align="center"><i>Open to Full Stack, DevOps, and Cloud Engineer opportunities 🚀</i></p>
