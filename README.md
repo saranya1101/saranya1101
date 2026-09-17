@@ -82,7 +82,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🖐️ Virtual Mouse using Hand Gesture (https://github.com/saranya1101/virtual_mouse_-python-project-.git)* | Real-time cursor control via webcam hand-gesture detection, with click detection based on finger landmark distance | Python, OpenCV, MediaPipe, PyAutoGUI |
+| 🖐️ [Virtual Mouse using Hand Gesture](https://github.com/saranya1101/virtual_mouse_-python-project-.git) | Real-time cursor control via webcam hand-gesture detection, with click detection based on finger landmark distance | Python, OpenCV, MediaPipe, PyAutoGUI |
 | ☁️ Cloud-Based Student Management System *(add repo link)* | RESTful APIs with role-based access control, containerized and deployed on AWS EC2 via Docker/Kubernetes, provisioned with Terraform, CI/CD via GitHub Actions | Spring Boot, MySQL, AWS, Docker, Kubernetes, Terraform |
 | 🎫 [Event Management Platform](https://github.com/saranya1101/event-management-) | Full-stack platform supporting 50+ events with complete CRUD functionality and a responsive UI | React, Tailwind CSS, REST API |
 | 🔎 [Lost & Found Portal](https://github.com/saranya1101/lost-found-portal) | Portal for reporting and tracking lost and found items | JavaScript |
